@@ -53,9 +53,9 @@ src/
 
 ```json
 {
-  "title": "Write README",
-  "description": "Complete the documentation for the project",
-  "dueDate": "2025-05-25"
+  
+  "task": "Complete the documentation for the project",
+  
 }
 ```
 
